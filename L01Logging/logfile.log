@@ -1,0 +1,8 @@
+2015-04-27 23:32:52 INFO  Main - info message
+2015-04-27 23:32:52 WARN  Main - warn message
+2015-04-27 23:32:52 ERROR Main - error message
+2015-04-27 23:32:52 FATAL Main - fatal message
+2015-04-27 23:36:32 INFO  Main - info message
+2015-04-27 23:36:32 WARN  Main - warn message
+2015-04-27 23:36:32 ERROR Main - error message
+2015-04-27 23:36:32 FATAL Main - fatal message
