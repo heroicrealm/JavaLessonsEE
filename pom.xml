@@ -9,6 +9,7 @@
         <module>L01Logging</module>
         <module>L01Lib</module>
         <module>L02JDBC</module>
+        <module>L03Hibernate</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
